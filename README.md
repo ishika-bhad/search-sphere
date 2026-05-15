@@ -1,4 +1,5 @@
-# SearchSynthesis
+# SearchSphere
+
 SearchSynthesis is a lightweight Python toolkit and Streamlit app that aggregates and analyzes information from multiple sources (YouTube, GitHub, Reddit, Twitter/X) using LangChain, Google Gemini, and Tavily search.
 
 ## Table of Contents
