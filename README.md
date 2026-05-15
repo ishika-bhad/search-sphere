@@ -1,6 +1,6 @@
-# SearchSphere
+# SearchSphere -  Multi-Source Generative AI Research Assistant
 
-SearchSynthesis is a lightweight Python toolkit and Streamlit app that aggregates and analyzes information from multiple sources (YouTube, GitHub, Reddit, Twitter/X) using LangChain, Google Gemini, and Tavily search.
+SearchSphere is a lightweight Python toolkit and Streamlit app that aggregates and analyzes information from multiple sources (YouTube, GitHub, Reddit, Twitter/X) using LangChain, Google Gemini, and Tavily search.
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ SearchSynthesis is a lightweight Python toolkit and Streamlit app that aggregate
 
 ## Overview
 
-SearchSynthesis is a lightweight Python toolkit and Streamlit app that aggregates and analyzes information from multiple sources (YouTube, GitHub, Reddit, Twitter/X) using LangChain, Google Gemini, and Tavily search. The project provides:
+SearchSphere is a lightweight Python toolkit and Streamlit app that aggregates and analyzes information from multiple sources (YouTube, GitHub, Reddit, Twitter/X) using LangChain, Google Gemini, and Tavily search. The project provides:
 
 - an interactive Streamlit UI for multi-source research and Q&A
 - modular modules to extract and vectorize GitHub repositories and YouTube transcripts
